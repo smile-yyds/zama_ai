@@ -4,3 +4,4 @@ Commit 1 line
 Line 4 committed
 Line 5 committed
 Line 6 committed
+Line 7 committed
